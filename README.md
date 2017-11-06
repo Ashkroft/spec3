@@ -1,5 +1,5 @@
 # spec3
 
-The third task will appear in next 24 hours
+done
 
 P.S. sorry for web-version
