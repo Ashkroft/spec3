@@ -1,0 +1,5 @@
+Enyk, writer, 10
+Benyk, proger, 5
+Varenyk, someone, 4
+Pelmen, proger, 10
+Hynkal, writer, 2
